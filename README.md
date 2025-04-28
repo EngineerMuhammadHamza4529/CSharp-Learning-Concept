@@ -2,6 +2,7 @@
 This repository includes fundamental concepts, practice programs, and small projects developed while learning C#. It covers basic syntax, object-oriented programming (OOP), collections, file handling, AJAX integration, and other core C# concepts.
 
 **📚 Topics Covered**
+
 Basic Syntax and Variables
 
 Conditional Statements (if-else, switch)
