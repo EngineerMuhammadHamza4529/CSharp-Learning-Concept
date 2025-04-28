@@ -1,0 +1,70 @@
+﻿@model asp.net_in_mvc_COMPARE_DATA_ANNOTATION_25.Models.Student
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm())
+{
+    <p>
+        <label>Student LogIn Form : </label>
+        <br />
+        <br />
+        @Html.LabelFor(model => model.studentID) &nbsp;
+        @Html.TextBoxFor(model => model.studentID, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.studentID, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.studentName) &nbsp;
+        @Html.TextBoxFor(model => model.studentName, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.studentName, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.studentAge) &nbsp;
+        @Html.TextBoxFor(model => model.studentAge, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.studentAge, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.studentEmail) &nbsp;
+        @Html.TextBoxFor(model => model.studentEmail, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.studentEmail, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.studentPassword) &nbsp;
+        @Html.EditorFor(model => model.studentPassword, "", new { htmlAttributes = new { @class = "form-control" } }) &nbsp;
+        @Html.ValidationMessageFor(model => model.studentPassword, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.STDconformPassword) &nbsp;
+        @Html.EditorFor(model => model.STDconformPassword, "", new { htmlAttributes = new { @class = "form-control" } }) &nbsp;
+        @Html.ValidationMessageFor(model => model.STDconformPassword, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.StdOrganizationName) &nbsp;
+        @Html.TextBoxFor(model => model.StdOrganizationName, "", new { @class = "form-control", @Value = "ABC Oraganization", @readonly = true }) &nabla;
+        @Html.ValidationMessageFor(model => model.StdOrganizationName, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.StdAddress) &nbsp;
+        @Html.EditorFor(model => model.StdAddress, "", new { htmlAttributes = new { @class = "form-control" } }) &nabla;
+        @Html.ValidationMessageFor(model => model.StdAddress, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.StdJoiningDate) &nbsp;
+        @Html.EditorFor(model => model.StdJoiningDate, "", new { htmlAttributes = new { @class = "form-control" } }) &nabla;
+        @Html.ValidationMessageFor(model => model.StdJoiningDate, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+        @Html.LabelFor(model => model.StdJoiningTime) &nbsp;
+        @Html.EditorFor(model => model.StdJoiningTime, "", new { htmlAttributes = new { @class = "form-control" } }) &nabla;
+        @Html.ValidationMessageFor(model => model.StdJoiningTime, "", new { @class = "btn btn-danger" })
+        <br />
+        <br />
+
+        <input type="submit" value="Submit" class="btn btn-dark" />
+        @Html.Raw(ViewData["SucessMassage"])
+    </p>
+}
+
+

@@ -1,0 +1,45 @@
+﻿@model asp.net_in_mvc_StringLengthDataAnotation_22.Models.Employee
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+
+    <p>
+        @Html.LabelFor(model => model.ID) &nbsp;
+        @Html.TextBoxFor(model => model.ID, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.ID, "", new { @class = "text-danger" })
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.Name) &nbsp;
+        @Html.TextBoxFor(model => model.Name, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => Model.Name, "", new { @class = "text-danger" })
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.EmpEmail) &nbsp;
+        @Html.TextBoxFor(model => model.EmpEmail, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.EmpEmail, "", new { @class = "text-danger" })
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.Gender) &nbsp;
+        @Html.TextBoxFor(model => model.Gender, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.Gender, "", new { @class = "text-danger" })
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.Age) &nbsp;
+        @Html.TextBoxFor(model => model.Age, "", new { @class = "form-control" }) &nbsp;
+        @Html.ValidationMessageFor(model => model.Age, "", new { @class = "text-danger" })
+    </p>
+    <input type="submit" value="Submit" class="btn btn-info">
+    @Html.Raw(ViewData["SucessMassage"])
+
+
+}
+

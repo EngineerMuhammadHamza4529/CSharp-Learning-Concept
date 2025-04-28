@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "ContactUs";
+}
+
+<h2>ContactUs</h2>
+
+@Html.Partial("_EmployeeList")
+<br/>
+<br />
+@Html.Partial("_LoginPartial")
+<br/>
+<br/>
+@{ 
+    Html.RenderPartial("_LoginPartial");
+}

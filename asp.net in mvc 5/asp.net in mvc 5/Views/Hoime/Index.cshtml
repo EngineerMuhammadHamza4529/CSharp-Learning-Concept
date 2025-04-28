@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>@ViewData["Massage"]</h2>
+<h2>@ViewData["CurrentTime"]</h2>
+<ul>
+    @{
+        foreach (string item in (string[])ViewData["FruitsArray"])
+        {
+            <li>@item</li>
+        }
+    }
+</ul>
+
+<ul>
+    @{
+        foreach (string item in (List<string>)ViewData["SportsList"])
+        {
+            <li>@item</li>
+        }
+    }
+</ul>
+
+@{
+    var a = (asp.net_in_mvc_5.Models.Employee)ViewData["Employee"];
+
+}
+
+<p>@a.EmpID</p>
+<p>@a.EmpName</p>
+<p>@a.EmpDesignation</p>

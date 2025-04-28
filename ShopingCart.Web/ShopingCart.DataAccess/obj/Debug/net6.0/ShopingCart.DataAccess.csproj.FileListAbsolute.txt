@@ -1,0 +1,17 @@
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.deps.json
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.runtimeconfig.json
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.pdb
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.Models.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.Models.pdb
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.AssemblyInfo.cs
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.csproj.CopyComplete
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\refint\ShopingCart.DataAccess.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.pdb
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ShopingCart.DataAccess.genruntimeconfig.cache
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\obj\Debug\net6.0\ref\ShopingCart.DataAccess.dll

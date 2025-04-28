@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "AboutUs";
+}
+
+<h2>AboutUs</h2>
+
+<h3>ViewData is = @ViewData["var1"]</h3>
+<h3>ViewBag is = @ViewBag.var2</h3>
+<h3>TempData is = @TempData["var3"]</h3>
+
+@{ 
+    foreach (string item in (string[])TempData["mygame"])
+    {
+        <li>@item</li>
+    }
+}

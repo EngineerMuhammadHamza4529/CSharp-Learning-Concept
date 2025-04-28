@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.net in mvc StringLengthDataAnotation 22", "asp.net in mvc StringLengthDataAnotation 22\asp.net in mvc StringLengthDataAnotation 22.csproj", "{660CCBA5-B3D6-44BE-9719-CD78CCC8E732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{660CCBA5-B3D6-44BE-9719-CD78CCC8E732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660CCBA5-B3D6-44BE-9719-CD78CCC8E732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660CCBA5-B3D6-44BE-9719-CD78CCC8E732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660CCBA5-B3D6-44BE-9719-CD78CCC8E732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FE1246-6E2A-4435-92DD-363C8AFFE827}
+	EndGlobalSection
+EndGlobal

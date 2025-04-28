@@ -1,0 +1,15 @@
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\bin\Debug\net6.0\TestEncapsulation.exe
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\bin\Debug\net6.0\TestEncapsulation.deps.json
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\bin\Debug\net6.0\TestEncapsulation.runtimeconfig.json
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\bin\Debug\net6.0\TestEncapsulation.dll
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\bin\Debug\net6.0\TestEncapsulation.pdb
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.csproj.AssemblyReference.cache
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.AssemblyInfoInputs.cache
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.AssemblyInfo.cs
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.dll
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\refint\TestEncapsulation.dll
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.pdb
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\TestEncapsulation.genruntimeconfig.cache
+C:\Users\ESHOP\source\repos\TestEncapsulation\TestEncapsulation\obj\Debug\net6.0\ref\TestEncapsulation.dll

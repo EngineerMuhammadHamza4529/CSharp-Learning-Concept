@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ShopingCart.DataAccess</id>
+    <version>1.0.0</version>
+    <authors>ShopingCart.DataAccess</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="ShopingCart.Models" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Identity.EntityFrameworkCore" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational.Design" version="2.0.0-preview1-final" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.runtimeconfig.json" target="lib\net6.0\ShopingCart.DataAccess.runtimeconfig.json" />
+    <file src="C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.DataAccess\bin\Debug\net6.0\ShopingCart.DataAccess.dll" target="lib\net6.0\ShopingCart.DataAccess.dll" />
+  </files>
+</package>

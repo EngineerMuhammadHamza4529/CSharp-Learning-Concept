@@ -1,0 +1,17 @@
+﻿<div class="alert alert-secondary" role="alert">
+    Login Sucessfully!!
+</div>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@Html.Raw(TempData["LoginSucessMessage"])
+<h3>Welcome @Session["Username"]</h3><br/>
+<div class="alert alert-primary" role="alert">
+    <a href="#" class="alert-link">@Html.ActionLink("Logout", "Logout", "User")</a>. Give it a click if you like.
+</div>
+
+
+

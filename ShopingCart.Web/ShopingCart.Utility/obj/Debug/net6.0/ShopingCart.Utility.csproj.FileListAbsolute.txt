@@ -1,0 +1,17 @@
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\bin\Debug\net6.0\ShopingCart.Utility.deps.json
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\bin\Debug\net6.0\ShopingCart.Utility.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\bin\Debug\net6.0\ShopingCart.Utility.pdb
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\bin\Debug\net6.0\ShopingCart.DataAccess.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\bin\Debug\net6.0\ShopingCart.Models.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\bin\Debug\net6.0\ShopingCart.DataAccess.pdb
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\bin\Debug\net6.0\ShopingCart.Models.pdb
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.csproj.AssemblyReference.cache
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.AssemblyInfoInputs.cache
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.AssemblyInfo.cs
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.csproj.CopyComplete
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\refint\ShopingCart.Utility.dll
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ShopingCart.Utility.pdb
+C:\Users\ESHOP\source\repos\ShopingCart.Web\ShopingCart.Utility\obj\Debug\net6.0\ref\ShopingCart.Utility.dll

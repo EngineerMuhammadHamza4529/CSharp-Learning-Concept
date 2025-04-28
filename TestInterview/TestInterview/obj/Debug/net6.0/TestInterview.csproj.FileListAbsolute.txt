@@ -1,0 +1,15 @@
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\bin\Debug\net6.0\TestInterview.exe
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\bin\Debug\net6.0\TestInterview.deps.json
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\bin\Debug\net6.0\TestInterview.runtimeconfig.json
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\bin\Debug\net6.0\TestInterview.dll
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\bin\Debug\net6.0\TestInterview.pdb
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.csproj.AssemblyReference.cache
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.AssemblyInfoInputs.cache
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.AssemblyInfo.cs
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.csproj.CoreCompileInputs.cache
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.dll
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\refint\TestInterview.dll
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.pdb
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\TestInterview.genruntimeconfig.cache
+C:\Users\ESHOP\source\repos\TestInterview\TestInterview\obj\Debug\net6.0\ref\TestInterview.dll

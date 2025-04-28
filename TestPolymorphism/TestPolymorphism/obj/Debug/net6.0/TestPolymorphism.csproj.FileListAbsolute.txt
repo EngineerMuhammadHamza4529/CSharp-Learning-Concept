@@ -1,0 +1,15 @@
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\bin\Debug\net6.0\TestPolymorphism.exe
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\bin\Debug\net6.0\TestPolymorphism.deps.json
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\bin\Debug\net6.0\TestPolymorphism.runtimeconfig.json
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\bin\Debug\net6.0\TestPolymorphism.dll
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\bin\Debug\net6.0\TestPolymorphism.pdb
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.csproj.AssemblyReference.cache
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.AssemblyInfoInputs.cache
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.AssemblyInfo.cs
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.dll
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\refint\TestPolymorphism.dll
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.pdb
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\TestPolymorphism.genruntimeconfig.cache
+C:\Users\ESHOP\source\repos\TestPolymorphism\TestPolymorphism\obj\Debug\net6.0\ref\TestPolymorphism.dll

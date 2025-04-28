@@ -1,0 +1,43 @@
+﻿@model asp.net_in_mvc_stronglyTypeHtmlHelper_19.Models.SignUp
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+   
+        <label>LogIn Form</label>
+        <br /><br />
+        @Html.LabelFor(model => model.userid)
+        <br /><br />
+        @Html.TextBoxFor(model => model.userid)
+        <br /><br />
+        @Html.LabelFor(model => model.username)
+        <br /><br />
+        @Html.TextBoxFor(model => model.username)
+        <br /><br />
+        @Html.LabelFor(model => model.userpassword)
+        <br /><br />
+        @Html.TextBoxFor(model => model.userpassword)
+        <br /><br />
+        @Html.LabelFor(model => model.useremail)
+        <br /><br />
+        @Html.TextBoxFor(model => model.useremail)
+        <br /><br />
+        @Html.LabelFor(model => model.usercomment)
+        <br /><br />
+        @Html.TextBoxFor(model => model.usercomment)
+        <br /><br />
+        <label>TextArea</label>
+        <br /><br />
+        @Html.TextArea("Text-Area", "Textarea:")
+        <br /><br />
+        <input type="Submit" value="Submit" />
+
+    
+
+}
+

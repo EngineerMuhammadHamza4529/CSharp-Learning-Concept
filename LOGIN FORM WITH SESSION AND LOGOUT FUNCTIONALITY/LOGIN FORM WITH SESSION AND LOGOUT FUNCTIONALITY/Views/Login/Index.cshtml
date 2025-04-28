@@ -1,0 +1,44 @@
+﻿@model LOGIN_FORM_WITH_SESSION_AND_LOGOUT_FUNCTIONALITY.Models.User
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<div class="row">
+    <div class="col-md-3 col-md-offset-5 container text-center">
+        <div style="border: 10px black ridge; padding:5px">
+            @using (Html.BeginForm("Index", "Login", FormMethod.Post))
+            {
+                <table height="200">
+                    <tr>
+                        <th colspan="2" class="text-center" style="font-size:25px;">LogIN</th>
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.UserName)</td>
+                        <td>
+                            @Html.TextBoxFor(model => model.UserName, "", new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        </td>
+
+                    </tr>
+                    <tr>
+                        <td>@Html.LabelFor(model => model.Password)</td>
+                        <td>
+                            @Html.EditorFor(model => model.Password, "", new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                            @Html.ViewBag.ErrorMessage
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="submit" value="LogIn" name="LogIn" class="btn btn-info" />
+                        </td>
+                    </tr>
+                </table>
+            }
+        </div>
+    </div>
+
+</div>
+

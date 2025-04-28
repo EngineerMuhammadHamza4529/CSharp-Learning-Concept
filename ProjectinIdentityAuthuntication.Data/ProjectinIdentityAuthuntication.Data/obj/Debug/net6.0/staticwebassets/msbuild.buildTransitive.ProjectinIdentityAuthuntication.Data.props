@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ProjectinIdentityAuthuntication.Data.props" />
+</Project>

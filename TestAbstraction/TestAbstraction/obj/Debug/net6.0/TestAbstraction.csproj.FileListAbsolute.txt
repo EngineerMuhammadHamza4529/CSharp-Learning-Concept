@@ -1,0 +1,15 @@
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.csproj.AssemblyReference.cache
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.AssemblyInfoInputs.cache
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.AssemblyInfo.cs
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\bin\Debug\net6.0\TestAbstraction.exe
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\bin\Debug\net6.0\TestAbstraction.deps.json
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\bin\Debug\net6.0\TestAbstraction.runtimeconfig.json
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\bin\Debug\net6.0\TestAbstraction.dll
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\bin\Debug\net6.0\TestAbstraction.pdb
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.dll
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\refint\TestAbstraction.dll
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.pdb
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\TestAbstraction.genruntimeconfig.cache
+C:\Users\ESHOP\source\repos\TestAbstraction\TestAbstraction\obj\Debug\net6.0\ref\TestAbstraction.dll

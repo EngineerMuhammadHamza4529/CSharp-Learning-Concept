@@ -1,0 +1,35 @@
+﻿@model asp.net_in_mvc_DataAnotation_21.Models.Employee
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        <label>LogIn Form : </label><br /><br />
+        @Html.LabelFor(model => model.empid)<br /><br />
+        @Html.TextBoxFor(model => model.empid, "", new { @class = "form-control" })<br /><br />
+        @Html.ValidationMessageFor(model => model.empid, "", new {@class = "text-danger"})<br /><br />
+        @Html.LabelFor(model => model.empname)<br /><br />
+        @Html.TextBoxFor(model => model.empname, "", new { @class = "form-control" })<br /><br />
+        @Html.ValidationMessageFor(model => model.empname, "", new { @class = "text-danger" })<br /><br />
+        @Html.LabelFor(model => model.emppassword)<br /><br />
+        @Html.TextBoxFor(model => model.emppassword, "", new { @class = "form-control" })<br /><br />
+        @Html.ValidationMessageFor(model => model.emppassword, "", new { @class = "text-danger" })<br /><br />
+        @Html.LabelFor(model => model.empgender)<br /><br />
+        @Html.TextBoxFor(model => model.empgender, "", new { @class = "form-control" })<br /><br />
+        @Html.ValidationMessageFor(model => model.empgender, "", new { @class = "text-danger" })<br /><br />
+        @Html.LabelFor(model => model.empemail)<br /><br />
+        @Html.TextBoxFor(model => model.empemail, "", new { @class = "form-control" })<br /><br />
+        @Html.ValidationMessageFor(model => model.empemail, "", new { @class = "text-danger" })<br /><br />
+        <input type="Submit" value="Submit" class="btn btn-info" />
+        @Html.ValidationMessage("Submit" , "submit the button :")<br/>
+        @Html.Raw(ViewData["SucessMassage"])
+    </p>
+}
+

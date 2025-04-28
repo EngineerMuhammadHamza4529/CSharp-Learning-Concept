@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@{
+    Html.BeginForm("Index", "Home");
+}
+
+@Html.Label("Username") &nbsp; @Html.TextBox("Username")
+<br />
+<br />
+@Html.Label("Password") &nbsp; @Html.TextBox("Password")
+<br />
+<br />
+
+@Html.Label("Genders : ") &nbsp; @Html.RadioButton("Gender", "Male") &nbsp; @Html.Label("Male")
+@Html.RadioButton("Gender", "Female") &nbsp; @Html.Label("Female")
+<br />
+<br />
+@Html.Label("Select Country") &nbsp; @Html.DropDownList("CountryList", new SelectList(new[]
+{ "Pakistan" , "India" , "Sirilanka" , "Bangladesh"}), "Choose")
+<br />
+<br />
+@Html.Label("Sports List") &nbsp; @Html.DropDownList("SportList", new SelectList(new[]
+{"Circket" , "Football" , "Hockey" , "Baseball"}))
+<br />
+<br />
+@Html.Label("Comment") &nbsp; @Html.TextArea("CommentArea")
+<br />
+<br />
+@Html.CheckBox("AcceptTerms") &nbsp; @Html.Label("I accept the Terms : ")
+<br />
+<br />
+<input type="Submit" , value="Submit" />
+
+
+@{
+    Html.EndForm();
+}
+
+
+
